@@ -1,0 +1,43 @@
+Group Details:
+             Surakshitha.M-1KS17CS088
+             Varshitha.S  -1KS17CS095
+             Sindhu.M     -1KS17CS079
+
+Link
+
+
+B3. Creating two equivalent web pages and access the same. First should result in proper content 
+    type and thus it should be displayed properly in the browser. The 2nd web page though having 
+    content should display the content in raw format without any formatting.These web pages could 
+    be.html or .jpg files etc.
+WORK DONE DETAILS:
+First.html  is resulting in the formatted data 
+second.html is resulting in the raw data
+    
+
+we used html for creating the webpages.
+In the first one we used  html code  for creating, formatting and changing the background colours   
+and in  Second one, the raw input we used  to display the formatted text on first.html is displayed in the second.html file.
+the raw data is displayed usinf <xmp> command
+    The respective output present in the  first.html and second.html,the first resulting in the proper
+    data and the second resulting in the raw data .the link is provided between both the webpages. 
+    using button we created the link between first and second, when you click the continue button on first webpage
+    it takes you to the second webpage.
+
+problems:
+while doing for the .jpg files,we werent able to display the raw data.
+
+
+ == Refernces-W3Schools.com
+ 
+
+
+
+
+
+
+ 
+
+
+
+

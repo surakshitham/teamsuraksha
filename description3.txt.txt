@@ -1,0 +1,31 @@
+Group Details:
+             Surakshitha.M-1KS17CS088
+             Varshitha.S  -1KS17CS095
+             Sindhu.M     -1KS17CS079
+
+Link:
+
+
+
+
+B7.fetching of partial contents. Identify a web page having at least 10KB of size. Download this web page 
+   and save it locally. Now download this web page in chunks of 2K each i.e. bytes range 0-1999, 2000-3999, 
+   4000-5999, ... and so on and save each chunk. Merge all the chunks to a single file. Compare this file
+   with original single file received. Verify that Both files are identical.
+
+Workdone Details:
+                 webpage:https://sfsicse.com/ 
+                 webpage downloaded:index.html.3,
+                 output file: chunks.txt,chunks1.txt
+                 pics:saving.png,1.png,2.png
+
+Steps:    We identifed the webpage having atleast 10kb of size and the webpage we accessed is https://sfsicse.com/  which is of size 31715kb.
+          As per the question,the webpage is downloaded in a file called index.html.3 using wget command.The size of the webpage is known using wget.
+          The saving.png gives the details about accessing and knowning the size of webpage.
+          ie, wget <url> refer saving.png
+After the size of the webpage is known, using curl command we are  dividing the webpage into ranges i.e; 0-1999,2000-3999,4000-5999,.....so on and saved in file chunks.txt.there is a special characters used to differentiate the ranges i.e;(???)
+So the file chunks.html had a special charcters to known the code within the ranges. The file chunks1.html has the all the chunks merged without any special characters ,this is compared to the original data that is downloaded 
+refer 1.png and 2.png
+
+Problems faced:
+               there some webpages which can be accessed but while using the curl command to divide it into ranges and appending it to file. the same code for the initial range gets appended for all the ranges.The code doesnt get divided into ranges,it displays the whole data.

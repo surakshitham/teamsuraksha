@@ -1,0 +1,35 @@
+Group Details:
+             Surakshitha.M -1KS17CS088
+             Varshitha.S   -1KS17CS095
+             Sindhu.M      -1KS17CS079
+
+Link
+
+
+A8.Implement web access including redirect.
+   Write a web client to access a webpage on a web server (e.g. cse.ksit.edu.in). If the server redirects
+   the request to another URL using status code 301 or 302, then client should access the new URL.
+   Repeat the process till status code received is 200 or 403 or 404.Save the content of the received file
+   in your local directory as per path given in the redirected URL and also note down the Last-Modified header
+   for this file. The program should not use any URL library,but should use HTTP protocol headers directly as per specs.
+   The program should accept following parameter
+   a. URL
+
+   The submission should include tcpdump of communication and saved file using redirect.
+
+work done:Server.java
+          HttpRedirectExample.java
+     Server.java will connect the server to port 80.
+     HttpRedirectExample.java will redirect according to the status code
+    we developed a program to access web server by web client.we accessed a webpage using status code 301 or 302. 
+if these status codes are peresnt then it should access the new url. these process repeats until it reaches status code 200.
+   and displaying the modified the last date of the webserver.
+This takes URL as parameter.
+   
+
+Problems:
+      we didnt understand how to do http protocols headers directly,tcpdump through the program.
+
+References:
+          google.com
+          help from the web developers known.

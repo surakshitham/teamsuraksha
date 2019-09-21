@@ -1,0 +1,1037 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+
+
+<title> SFSICSE  </title>
+
+<link rel="shortcut icon" type="images/fevicon.png" href="images/fevicon.png" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<link href="https://fonts.googleapis.com/css?family=Arima+Madurai" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Mirza" rel="stylesheet" />
+
+
+
+
+<!------------------CSS hover------------------->
+<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="css/common.css" />
+<link rel="stylesheet" type="text/css" href="css/style2.css" />
+<script type="text/javascript" src="js/modernizr.custom.79639.js"></script> 
+<!------------------CSS hover------------------->
+
+
+
+<!---------slider--------------->
+<script src="sliderengine/jquery.js" type="text/javascript"></script>
+<script src="sliderengine/amazingslider.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css" />
+<script src="sliderengine/initslider-1.js" type="text/javascript"></script>
+<!---------slider--------------->
+
+
+<!----------------announ------------->
+<link rel="stylesheet" type="text/css" href="ticker.css" />
+<!----------------announ------------->
+
+
+
+<!-- -------------news&events----------- --> 
+<script src="js/marquee.js" type="text/javascript"></script>
+
+<style type="text/css">
+div#mysagscroller2 ul li img{
+border-width:0;
+display:block; }
+
+</style>
+
+<script type="text/javascript">
+
+//SAG scroller demo #2:
+
+var sagscroller2 = new sagscroller({
+id: 'mysagscroller2',
+mode: 'auto',
+pause: 2500,
+animatespeed: 400 //<--no comma following last option
+})
+
+</script>
+
+<!-- -------------news&events----------- -->  
+(???)
+
+
+
+
+<!------------slid-------->
+<link href="css/js-image-slider.css1.css" rel="stylesheet" type="text/css" />
+<script src="js/js-image-slider1.js" type="text/javascript"></script>
+<!------------slid--------> 
+
+
+
+<!-----------------caption------------->
+
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+
+<!-----------------caption------------->
+
+
+
+
+<!--------------left------------->
+<!--<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery("#facebook_right").hover(function() {
+jQuery(this)
+.stop(true, false)
+.animate({ right: 0 }, 500);
+}, function() {
+jQuery("#facebook_right")
+.stop(true, false).animate({ right: -300 }, 500);
+});
+});
+</script>-->
+
+<!--<script type="text/javascript" src="js/jquery.timers.js"></script>
+<script type="text/javascript" src="js/jquery.autoScroller.js"></script>
+
+<script src="js/jquery.scrollbox.js" type="text/javascript"></script>-->
+
+<!--<script type="text/javascript">
+$(function() {
+var $container = $('#container'),
+i = 1;
+
+$container
+.on('reach.scrollbox', function() {
+if (i < 6) {
+
+window.setTimeout(function() {
+$container.scrollbox('update'); 
+}, 300);
+}
+})
+.scrollbox({
+buffer: 150
+});
+});
+</script>-->
+<!--<script type="text/javascript" src="js/jquery.js"></script>-->
+
+<!--------------left------------->
+
+</head>
+<body>
+
+<!--<div id="facebook_right" style="top: 35%;"> 
+<div id="facebook_div"> 
+<img alt="" src="images/motto.png" /> 
+<div id="container"> 
+
+
+<p>
+SFS Public School, the educational community aims at imparting high quality education to prepare the young for opportunities for life in the fast advancing technological modern society. The primary focus of this academic fraternity is on knowledge, excellence, love and service.
+</p>
+
+
+</div>-->
+
+
+
+<!--<div id="boxes">
+<div style="top: 199.5px; left: 551.5px; display: none;" id="dialog" class="window">  
+<a href="#" class="close"><img src="images/CloseButton.png"
+(???)
+
+ alt="" style="float:right; margin:0px 0px 0px 10px;" /></a>
+<p style="text-align:center;">
+<img src="images/Seminar_first.jpg" alt="" />
+</p>
+</div>
+<div style="width: 1478px; font-size: 32pt; color:white; height: 602px; display: none; opacity: 0.8;" id="mask"></div>
+</div>
+<script src="main.js"></script>-->
+
+
+<div id="sheet_inner">
+
+<div id="wrap">
+
+<table cellpadding="0px" cellspacing="0px" border="0" width="1100px" align="center">
+
+<tr>
+
+<td valign="top">
+
+<header>
+
+<img src="images/Francis.png" alt="" class="img"/>
+
+<div id="menu">
+
+<div id='cssmenu'>
+
+<ul>
+
+<li><a href="home.html"><img src="images/home_2.png" alt=" " style="margin-top:-5px;" /></a></li>
+
+<li ><a href="about_us.html"> About Us</a>
+<ul>
+<li ><a href="school_view.html"> School Over View </a> </li>
+</ul>
+</li>
+
+<li class="has-sub"><a href="#.html"> Adminstration </a> 
+<ul>
+<li><a href="management.html">Management</a></li>
+<li><a href="principal_msg.html">Principal's message</a></li>
+<li><a href="vision.html"> Our Vision & Mission </a></li>
+<li><a href="staff.html">Faculty Members</a></li>
+<li><a href="rules.html">Rules & Regulation</a></li>
+</ul>
+</li>
+
+<li class="has-sub"><a href="#"> Curriculum </a>
+<ul>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="admission.html">Admission & Fees</a></li>
+<li><a href="examination.html">Examination & Promotion</a></li>
+<li><a href="time.html">Time Table</a></li>
+<li><a href="calendar.html">School Calendar</a></li>
+<li><a href="song.html">School Song</a></li>
+</ul>
+</li>
+
+<li class="has-sub"><a href="activities.html"> Activities </a>
+<ul>
+<li><a href="cocurricular.html">Co - curricular </a></li>
+<li><a href="house.html">Houses</a></li>
+<li><a href="team_desalites.html"> Team Desalites </a>
+<!--<ul>
+<li><a href="nature.html">Nature & Health</a></li>
+<li><a href="science1.html">Science</a></li>
+<li><a href="maths.html">Math’s IT</a></li>
+<li><a href="literary.html">Literary & Oratory</a></li>
+(???)
+
+<li><a href="numismatic.html">Philately & Numismatic</a></li>
+<li><a href="debate.html">Debate & Quiz</a></li>
+<li><a href="music.html">Art & Music</a></li>
+<li><a href="#">Pythagoras Academy</a></li>
+<li><a href="#">Herodoras Academy</a></li>
+<li><a href="#">Albert Einstein Academy</a></li>
+<li><a href="#">Shakespeare Academy</a></li>
+<li><a href="#">Charles Babbage Academy</a></li>
+<li><a href="#">Kuvempu Academy</a></li>
+<li><a href="homescience.html">Home Science</a></li>
+<li><a href="road.html">Road Safety</a></li>
+</ul>-->
+</li>
+</ul>
+</li>
+
+<li class="has-sub"><a href="#.html">  Facilities </a>
+<ul>
+<li><a href="campus.html">Campus</a></li>
+<li><a href="class.html">Classrooms</a></li>
+<li class="has-sub"><a href="#">Laboratories</a>
+<ul>
+<li><a href="media.html">Media </a></li>
+<li><a href="science.html">Science </a></li>
+<li><a href="computer.html">Computer</a></li>
+</ul>
+</li>
+
+<li><a href="lib.html">Library</a></li>
+<li><a href="art.html">Art Centre</a></li>
+<li><a href="sports.html">Sports</a></li>
+<li><a href="park.html">Park & Play Area</a></li>
+<li><a href="transport.html">Transport</a></li>
+
+</ul>
+</li>
+
+<li  class="has-sub"><a href="#">ISC</a>
+<ul>
+<li><a href="about_isc.html">About</a></li>
+<li><a href="isc_facility.html">Facilities</a></li>
+<li><a href="isc_courses.html">Courses</a></li>
+<li><a href="isc_coaching.html">Coaching</a></li>
+</ul>
+</li>
+
+<li><a href="news.html">News & Events</a></li>
+
+<li><a href="career.html">Career</a></li>
+
+<li><a href="alumni.html">Alumni</a></li>
+
+<li><a href="#">Multimedia</a>
+<ul> <li> <a href="gallery.html"> Gallery </a></li>
+<li> <a href="video.html"> Video </a></li>
+</ul>
+</li>
+
+<li><a href="contact.html"> Contact  </a></li>
+
+</ul>
+
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+$(window).scroll(function() {
+if ($(this).scrollTop() > 1) {
+$('header').addClass("sticky");
+}
+else {
+$('header').removeClass("sticky");
+}
+});
+</script>
+
+</heade
+(???)
+r>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div id="slide">
+
+<div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:100%;margin:0 auto;">
+
+<div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+
+<ul class="amazingslider-slides" style="display:none;">
+
+<li><img src="images/slide21.JPG" alt="" /> </li>
+<li><img src="images/slide22.JPG" alt="" /> </li>
+<li><img src="images/slide23.JPG" alt="" /> </li>
+<li><img src="images/slide24.JPG" alt="" /> </li>
+<li><img src="images/slide25.JPG" alt="" /> </li>
+<li><img src="images/slide26.JPG" alt="" /> </li>
+<li><img src="images/slide27.JPG" alt="" /> </li>
+<li><img src="images/slide28.JPG" alt="" /> </li>
+<li><img src="images/slide29.JPG" alt="" /> </li>
+<li><img src="images/slide30.JPG" alt="" /> </li>
+<li><img src="images/slide31.JPG" alt="" /> </li>
+<li><img src="images/slide32.JPG" alt="" /> </li>
+<li><img src="images/slide33.JPG" alt="" /> </li>
+<li><img src="images/slide34.JPG" alt="" /> </li>
+<li><img src="images/slide35.JPG" alt="" /> </li>
+<li><img src="images/slide36.JPG" alt="" /> </li>
+<li><img src="images/slide37.JPG" alt="" /> </li>
+<li><img src="images/slide38.JPG" alt="" /> </li>
+<li><img src="images/slide39.JPG" alt="" /> </li>
+      
+</ul>
+
+</div>
+
+</div>
+(???)
+
+</div>
+
+<div id="sheet">
+
+<div id="content">
+
+<div class="section">
+
+<table border="0" cellpadding="0" cellspacing="0" width="1100px" align="center">
+
+<tr>
+
+<td>
+
+<div class="col">
+
+<div class="ticker-container">
+
+<div class="ticker-caption">
+<p> <a href="announcement.html" style="color:#ffffff;" >  Announcement </a> </p>
+</div>
+
+<ul>
+
+<div>
+<li><span> <a href="announcement.html" style="color:#153161;">  "Open Day for grade I - XII will be on 03 August 2019." </a> </span></li>
+</div>
+
+<div>
+<li><span> <a href="announcement.html" style="color:#153161;">  XSEED Orientation for parents of Kindergarten (Pre KG,LKG & UKG) will be on 15 June 2019 <
+/a> </span></li>
+</div>
+
+<div>
+<li><span> <a href="announcement.html" style="color:#153161;">  " NOVELLO 2019 - Inauguration of Pre KG classes will on held on 15 June 2019" </a> </span></li>
+</div>
+
+<div>
+<li><span> <a href="announcement.html" style="color:#153161;">  XSEED Seminar for Parents of grade I ,II & III will be held on 08 June 2019. </a> </span></li>
+</div>
+(???)
+
+
+<div>
+<li><span> <a href="announcement.html" style="color:#153161;">  "Classes for LKG & UKG commences on 03 June 2019" </a> </span></li>
+</div>
+
+</ul>
+
+</div>
+
+<script src="ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script> 
+<script src="ticker.js" type="text/javascript"></script>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<div class="col1">
+
+<ul class="ch-grid">
+
+<li>
+<div class="ch-item ch-img-1">
+<div class="ch-info">
+<p> <a href="admission.html"> Admission </a></p>
+</div>
+</div>
+</li>
+
+<li>
+<div class="ch-item ch-img-3">
+<div class="ch-info">
+<!--<h3> Events  </h3>-->
+<p style="margin-top:-14px;line-height:24px;"> <a href="news.html"> Programme <br /> &
+<br />  Events </a>  </p> 
+</div>
+</div>
+</li>
+
+<li>
+<div class="ch-item ch-img-2">
+<div class="ch-info">
+<p> <a href="results.html"> Results </a> </p> 
+<!--	<p>by Daniel Nyari <a href="#">View on Dribbble</a></p>-->
+</div>
+</div>
+</li>
+
+<li>
+<div class="ch-item ch-img-4">
+<div class="ch-info">
+<p> <a href="time.html">  Time Table   </a> </p>
+</div>
+</div>
+</li>
+
+<li>
+<div class="ch-item ch-img-5">
+<div class="ch-info">
+<p> <a href="calendar.html"> Calendar </a> </p> 
+</div>
+</div>
+</li>
+
+</ul>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+<img src="images/divider.png" alt=" " style="margin-top:-10px;"/>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<div class="section1">
+
+<table border="0" cellpadding="0" cellspacing="0" width="1100px" align="center">
+
+<tr>
+<td colspan="8">
+<div class="col4">
+<img src="images/red-ribbon.png" alt=" " style="float:left; margin-right:10px; margin-left:-8px; margin-top:30px;"/>
+<!
+(???)
+
+br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Garden Walk</b><br />
+<img alt="" src="news/gadenwalk_sml.jpeg" style="margin: 7px 10px 15px 0px; float:left;" />
+On 01 August 2019 the little ones of SFS Pre KG with their teachers visited the lush garden of SFS Church located in the campus.....
+<a href="news_99.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Deepika Children's League (Christ University)</b><br />
+<img alt="" src="news/deepaleague19_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Desalites of SFS ICSE participated in the inter school cultural events held by Deepika Children's
+League (Christ University)....
+<a href="news_98.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Seminar on Academic Success and Self Motivation</b><br />
+<img alt="" src="news/seminar_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+A seminar on academic success and self motivation for the students of grade X was conducted by Rev.Fr.Jabamalai....
+<a href="news_97.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Sow a Seed Day</b><br />
+<img alt="" src="news/seedday_sml.jpeg" style="margin: 7px 10px 15px 0px; float:left;" />
+On 28 June 2019, the kindergarteners were introduced to the wonders of nature by sowing a seed activity.
+Curiosity and enthusiasm...
+<a href="news_96.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Assembly by UKG A</b><br />
+<img alt="" src="news/lkg_assemble19_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+First kindergarten assembly for the academic year 2019 was conducted on 20 June 2019. 
+The students of UKG A presented the morning assembly...
+(???)
+<a href="news_95.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">NOVELLO 2019</b><br />
+<img alt="" src="news/NOVELLO19_sml.jpg" style="margin: 7px 10px 15px 0px; float:l
+eft;" />
+Tiny Desalites of SFS PUBLIC SCHOOL entered into the adventurous world of kindergarten on 15 June 2019. 
+They experienced the incredible first day of school...
+<a href="news_94.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Environment Day Celebration 2019</b><br />
+<img alt="" src="news/environ19_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+World Environment Day is the opportunity for everyone to realize the responsibility to care for the Earth. 
+We at SFS PUBLIC SCHOOL...
+<a href="news_93.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">PALLAV '2019</b><br />
+<img alt="" src="news/pallav19_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+New academic year inauguration was held on 23 May 2019 at SFS PUBLIC SCHOOL.<br />
+The programme began by the arrival...
+<a href="news_92.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Result in the ICSE & ISC 2018-19 examinations</b><br />
+<img alt="" src="news/result18_sml.jpeg" style="margin: 7px 10px 15px 0px; float:left;" />
+Everyone wants success, but it only follows those who make a true approach to get it…
+With immense pleasure we wish to state that our school...
+<a href="news_91.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Women's Day Celebration</b><br />
+<img alt="" src="news/womensday18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+SFS Public School celebrated women's day with all the teaching and non teaching faculty on 08 March 2019. 
+A special seminar was organised...
+<a href="news_90.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Student Council Election'19</b><br />
+<img alt="" src="news/stud_elec19_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+The student council is an indispensible part of SFS and establishing the new team every year is 
+(???)
+an enriching experience for all the teachers and students....
+<a href="news_89.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Bellissimo'18</b><br />
+<img alt="" src="news/bellissimo18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Stepping up for more was the theme for Kindergarten Annual Day – “Bellissimo” which was held on 21 December 2018....
+<a href="news_88.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Ethnic Day</b><br />
+<img alt="" src="news/ethnicday18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+On 22 November 2018, the little ones were provided with an opportunity to celebrate the diversity
+of vibrant and colourful India. In an era of modernization...
+<a href="news_87.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> DESFIDA '18 - Sport Is a Preserver of Health - Hippocrates</b><br />
+<img alt="" src="news/desfida18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+“DESFIDA” the kindergarten sports day was held with great zeal on 09 November 2018. 
+The lively day was inaugurated by Rev.Fr.Jabamalai, our Principal...
+<a href="news_86.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">Kannada Rajyotsava & Ethnic Day Celebration</b><br />
+<img alt="" src="news/rajyot_ethnic_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+The dawn of 01 November 2018 was welcomed with vibrant colours of red and yellow. The entire school was buzzing with colours of ethnicity....
+<a href="news_85.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> DESPARTA'18</b><br />
+<img alt="" src="news/desparta18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+The much awaited Annual Sports Day DESPARTA'18 was held on 09 and10 October 2018, with great
+zeal, excitement and frolicsome atmosphere...
+<a href="news_84.html" s
+(???)
+tyle="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> As we rode high and low </b><br />
+<img alt="" src="news/kg_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Singing along the tiny tots of Pre KG witnessed different modes of transport displayed in the quadrangle. 
+To learn with fun and to explore different types..
+<a href="news_83.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> Champions of CHE BELLEZZA'18 </b><br />
+<img alt="" src="news/champions_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Aaradhya Amith Bhandiwad<br />
+Ayushman Patra...
+<a href="news_82.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> CHE BELLEZZA'18 </b><br />
+<img alt="" src="news/chezza18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Che Bellezza'18 – cultural fest for the kindergarten was held on 15 and 17 September 2018.Ms.Samanvitha Sharma, ...
+<a href="news_81.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> CISCE Sports and Games 2018 </b><br />
+<img alt="" src="news/cisce_games_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Council's National Sports and Games Meet was held on 11 September 2018.
+Shine Bensus R from grade X secured II place in shotput (sub junior boys category)....
+<a href="news_80.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;"> Athletic Meet </b><br />
+<img alt="" src="news/athletic18_sml.jpg" style="margin: 7px 10px 15px 0px; float:left;" />
+Girls of grade IV &amp; V (Junior Category) participated in the Interschool Athletic Meet held at Ebenezer
+International School, Huskur, Electronic City on 04 September 2018....
+<a href="news_79.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  DCL Competitions  </b><br />
+<img alt="" src="news/dcl
+(???)
+_mel18_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+Desalites of SFS PUBLIC SCHOOL participated in BLOOMS ’18 conducted by Deepika Children’s League on 02 September 2018...
+<a href="news_78.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  Azadi ke Rang – Colours of Freedom  </b><br />
+<img alt="" src="news/azadi_rang_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+"Colours of Freedom" Day was celebrated in the Kindergarten wing on 30 August 2018.To raise awareness about freedom fighters of India...
+<a href="news_77.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  Out in the Garden </b><br />
+<img alt="" src="news/garden18_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+To observe and relish the beauty of nature and as an extension of their learning, the tiny tots of Pre KG with their teachers...
+<a href="news_76.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  DCL Competitions </b><br />
+<img alt="" src="news/DCL_comp_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+Desalites of SFS PUBLIC SCHOOL participated in the inter school DCL competitions held on 29 July 2018 at Christ University...
+<a href="news_75.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  NOVELLO'18 </b><br />
+<img alt="" src="news/novella18sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+Excitement, joy and curiosity filled the school as the tiny desalites made their way on their first day of formal schooling...
+<a href="news_74.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  SHAPATH'18 </b><br />
+<img alt="" src="news/sapath18_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+The Investiture ceremony signifies the reliance and confidence that the school consigns in the ne
+(???)
+wly invested office bearers...
+<a href="news_73.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  World  Environment Day 2018  </b><br />
+<img alt="" src="news/environ18_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+To commemorate 47th world environment day, SFS PUBLIC SCHOOL organized a wide range of programmes on 09th June...
+<a href="news_72.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  Pallav '18  </b><br />
+<img alt="" src="news/pallav18_sml.JPG" style="margin: 7px 10px 15px 0px; float:left;" />
+Start of the new academic year is an occasion for joy and hope for all. These feelings were felt by the...
+<a href="news_71.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+<li>
+<p>
+<b style="color:#004276;">  ICSE EXAMINATION 2017-18 RESULTS </b><br />
+Continuing the onward journey towards excellence, our children have excelled at the ICSE examination 2017-18
+with flying colours securing 100% pass result...
+<a href="news_70.html" style="float:right;">More+</a><br />
+</p>
+</li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<td colspan="2">
+
+<div class="col9">
+<center> <h3>  Video  </h3></center>
+<center> <img src="images/ro1.png" alt= " " />  </center>
+<a href="video.html"><img src="images/blooms17.png" alt= " " style="margin-top:15px;"/></a>
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="6">
+
+<div class="col8">
+<span style="float:left; width:360px; border-right:solid 1px #dddddd;margin-left:5px;margin-top:20px;margin-bottom:20px"> 
+ <b style="font-size:19px;color:#b99523; font-family: 'Arima Madurai', cursive;">   Activities  </b>
+<div class="border" ><div class="border_inner"></div>
+</div>
+
+<div style="clear:both;margin-top:20px;">
+
+<div class="demo">
+<a  href="activities.html">
+<div id="capslide_img_cont6" class="ic_container">
+<img src="images/activities.gif" width="320" height="220" alt=""/>
+<div class="over
+(???)
+lay" style="display:none;"></div>
+<div class="ic_caption">
+<a style=" float:none;font-size: 18px;" href="activities.html">
+<h3 style="color:#153463;"> Activities </h3></a>                        
+<p class="ic_text"></p>
+</div>
+</div>
+</a>
+</div>
+
+<!-- <script type="text/javascript" src="js/jquery-1.3.2.js"></script>-->
+<script src="js/jquery.capSlide.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+
+$("#capslide_img_cont6").capslide({
+caption_color: 'black',
+caption_bgcolor: 'white',
+overlay_bgcolor: 'white',
+
+//                    border: '4px solid #a6a6aa',
+showcaption: true
+});
+
+});
+</script>
+
+</div>
+
+</span>
+
+<span style="float:left; width:340px;margin-left:20px;margin-top:20px;margin-bottom:20px"> <b style="font-size:19px;margin-left:40px;color:#b99523; font-family: 'Arima Madurai', cursive;">  Facilities </b>   
+<div class="border" style="margin-left:40px;" ><div class="border_inner"></div>
+</div>
+
+<div style="clear:both; margin-left:20px;margin-top:20px;">
+
+<div class="demo">
+<a href="campus.html">
+<div id="capslide_img_cont5" class="ic_container">
+<img src="images/fac.gif" width="350" height="220" alt=""/>
+<div class="overlay" style="display:none;"></div>
+<div class="ic_caption">
+<a style=" float:none;font-size: 18px;" href="campus.html">
+<h3 style="color:#153463;">Facilities</h3></a> 
+<p class="ic_text"></p>
+</div>
+</div></a>
+</div>
+
+<!-- <script type="text/javascript" src="js/jquery-1.3.2.js"></script>-->
+<script src="js/jquery.capSlide.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+
+$("#capslide_img_cont5").capslide({
+caption_color: 'black',
+caption_bgcolor: 'white',
+overlay_bgcolor: 'white',
+
+//                    border: '4px solid #a6a6aa',
+showcaption: true
+});
+
+});
+</script>
+
+</div>
+
+</span>
+
+</div>
+
+</td>
+
+<td colspan="2">
+
+<div class="col16">
+<h3> Gallery    </h3>
+<div class="border" style="margin-left:0px;margin-top:0px;">
+<div 
+(???)
+class="border_inner"></div></div>
+
+<div id="sliderFrame1" style="margin-left:-10px;margin-top:16px;">
+<div id="slider1">
+<a href="gallery.html"> <img src="images/acti.jpg"  alt="" /></a>
+<a href="gallery.html"> <img src="images/act_1.jpg"  alt="" /> </a>
+<a href="gallery.html"> <img src="images/acti.jpg"  alt="" /></a>
+</div>
+</div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col12">
+
+<div class="col12_inner">
+
+<table border="0px" cellpadding="0" cellspacing="0" width="1100px" align="center">
+
+<tr>
+
+<td valign="top" class="col11" colspan="2">
+<h4> Quick Links    </h4>
+<img src="images/s1.png" alt=" " />
+
+<span style="float:left; width:250px;margin-top:-20px;"> 
+
+<div class="menu_simple">
+
+<ul>
+<li><a href="http://sfshighschool.org/"  target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" />  S.F.S High School  </a></li>
+<li><a href="http://sfsacademy.com/"  target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" />  S.F.S Academy (CBSE)  </a></li>
+<li><a href="http://sfspuc.com/"  target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" />  S.F.S PU College   </a></li>
+<li><a href="http://sfscollege.in/"  target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" /> S.F.S College   </a></li>
+<li><a href="http://desalesmusicacademy.com/"  target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" />De Sales Music Academy </a></li>
+<li><a href="http://sfschurch.com/" target="_blank"><img src="images/arrow.png" alt="" style="margin:0px 5px -2px 0px;" />  S.F.S Church    </a></li>
+</ul>
+
+</div>
+
+</span>
+</td>
+
+<td valign="top" style="width:400px" colspan="3">
+ 
+<div class="col17">  
+
+<h4> Address    </h4>
+<img src="images/s1.png" alt=" " style="margin-left:63px;" />
+<p>
+Address : Hebbagodi, Hosur Road, <br /> 
+Bangalore - 560 100 ,  <br /> 
+Karnataka , IN
+(???)
+DIA  <br /> 
+Landmark : Opposite Biocon <br /> 
+Phone : 080 - 2783 1451  <br /> 
+Mobile : 09741680162  <br /> 
+</p>
+
+</div>
+
+</td>
+
+<td valign="top" style="width:400px"  colspan="3">
+
+<div class="col13" > 
+
+<h4>  Map  </h4>
+<img src="images/s1.png" alt=" " style="margin-left:95px;" />
+
+<span style=" float:left; width:400px;margin-top:10px;margin-left:40px;border:solid 1px #fff;">
+<iframe width="400" height="230" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.1426028631295!2d77.67886721412265!3d12.83406022135547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6c5f2011177f%3A0x1435abea2184a7fb!2sSFS+Public+School+ICSE!5e0!3m2!1sen!2sus!4v1473914495963"></iframe> <br />
+
+<small><a href="https://maps.google.co.in/maps?f=d&amp;source=embed&amp;saddr=Mahatma+Gandhi+Rd,+Shivajinagar,+Bangalore,+Karnataka&amp;daddr=Hebbagodi,+Hosur+Road,+++Bangalore&amp;geocode=FQ7-xQAd3y6gBCnXHSaRfRauOzH_dKh7PRcsvw%3BFWGLwwAdVU-hBCmZErK8OWyuOzF3KdyUgJJ7Bw&amp;aq=&amp;sll=12.973655,77.608023&amp;sspn=0.021955,0.038581&amp;hl=en&amp;mra=ls&amp;ie=UTF8&amp;ll=12.894215,77.65054&amp;spn=0.162458,0.090581&amp;t=m" style="color:#fff;text-align:left;"><!--View Larger Map--></a></small>
+</span>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" align="center" colspan="8">
+
+<div class="footer" > 
+&copy; 2016 <b style="font-size:12px;">  SFS    </b> all rights reserved | Designed by
+<a href="http://www.integro.co.in" target="_blank" title="Integro Infotech And Consulting" > <b style="font-size:12px;">INTEGRO  </b>  </a>
+</div>
+
+</td>
+
+</tr>
+
+</table>
+ 
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+(???)
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Requested Range Not Satisfiable</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Requested Range Not Satisfiable</h2>
+<hr><p>HTTP Error 416. The requested range is not satisfiable.</p>
+</BODY></HTML>
+(???)
